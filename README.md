@@ -7,3 +7,9 @@ Los componentes que se usan son:
 * Navbar.js
 * App.js
 * index.js
+
+## Recuerde!
+1. Instalar las dependencias
+> npm install
+2. Instalar el esquema
+> npm install react-router-dom --save
