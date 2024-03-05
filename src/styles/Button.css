@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.blacktext{
+  background-color: #ffffff;
+  color: #000000;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif; /* Asegúrate de importar la fuente Montserrat en tu proyecto */
+  font-size: 18px;
+  font-weight: 600; /* SemiBold */
+}
+
+.bluetext{
+    background-color: #ffffff;
+    color: #0146B1;
+    padding: 10px 20px ;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif; /* Asegúrate de importar la fuente Montserrat en tu proyecto */
+    font-size: 18px;
+    font-weight: 600; /* SemiBold */
+  }
+
+.bluebg{
+    background-color: #0146B1;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif; /* Asegúrate de importar la fuente Montserrat en tu proyecto */
+    font-size: 18px;
+    font-weight: 600; /* SemiBold */
+}
+
+.blueblue{
+    background-color: #E4EEFC;
+    color: #0146B1;
+    padding: 10px 20px;
+    border-radius: 60px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif; /* Asegúrate de importar la fuente Montserrat en tu proyecto */
+    font-size: 16px;
+    font-weight: 600; /* SemiBold */
+}
+
+.blackunder{
+    background-color: #ffffff;
+    color: #454545;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif; /* Asegúrate de importar la fuente Montserrat en tu proyecto */
+    font-size: 16px;
+    font-weight: bold; /* SemiBold */
+  }
+
+
+
+  

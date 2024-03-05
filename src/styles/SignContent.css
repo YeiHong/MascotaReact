@@ -1,0 +1,99 @@
+.title{
+    color: #ffffff;    
+    font-family: 'Montserrat', sans-serif; /* Asegúrate de importar la fuente Montserrat en tu proyecto */
+    font-size: 32px;
+    font-weight: bold; /* SemiBold */
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+.blackTitle{
+    color: #000000;    
+    font-family: 'Montserrat', sans-serif; /* Asegúrate de importar la fuente Montserrat en tu proyecto */
+    font-size: 32px;
+    font-weight: bold; /* SemiBold */
+    text-align: center;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+.leftDiv{
+    background-color: #0146B1;
+    align-items: center;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    width: 440px;
+    height: 530px;
+}
+
+.rightDiv{
+    background-color: #ffffff;
+    align-items: center;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    width: 440px;
+    height: 513px;
+}
+
+.white{
+    color: #ffffff;    
+    font-family: 'Montserrat', sans-serif; /* Asegúrate de importar la fuente Montserrat en tu proyecto */
+    font-size: 16px;
+    font-weight: medium; /* SemiBold */
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.black{
+    color: #555555;    
+    font-family: 'Montserrat', sans-serif; /* Asegúrate de importar la fuente Montserrat en tu proyecto */
+    font-size: 16px;
+    font-weight: 600; /* SemiBold */
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 5px;
+}
+
+.imgLeft{
+    border-radius: 30px;
+    width: 382px;
+    height: 218px;
+}
+
+.buttonimg{
+    width: 369px;
+    height: 54px;
+    margin-left: 50px;
+    margin-top : 30px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    border-color: #D9D9D9;
+    font-family: 'Montserrat', sans-serif; /* Asegúrate de importar la fuente Montserrat en tu proyecto */
+    font-size: 16px;
+    font-weight: medium; /* SemiBold */
+    display: flex;
+    flex-direction: row;
+    align-items: center;    
+    
+}
+
+.imgButton{
+    width: 30px;
+    height: 30px;
+    margin: 30px;
+}
+
+.gray{
+    color: #555555;    
+    font-family: 'Montserrat', sans-serif; /* Asegúrate de importar la fuente Montserrat en tu proyecto */
+    font-size: 10px;
+    font-weight: normal; /* SemiBold */
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 150px;
+    line-height: 25px;
+}
